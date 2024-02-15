@@ -36,13 +36,23 @@ align-items: center;
 }
 .red{
 background-color: red;
-box-shadow: 5PX 3PX 104PX 56PX rgb(194, 68, 68, 0.97);
+
 }
 .yellow{
 background-color: yellow;
-box-shadow: 5PX 3PX 104PX 56PX rgba(177, 194, 68, 0.97);
 }
 .green{
 background-color: green;
-box-shadow: 5PX 3PX 104PX 56PX rgba(68, 194, 83, 0.97);
+}
+.redOn{
+    box-shadow: 5PX 3PX 104PX 56PX rgb(194, 68, 68, 0.97);
+
+}
+.yellowOn{
+    box-shadow: 5PX 3PX 104PX 56PX rgba(177, 194, 68, 0.97);
+
+}
+.greenOn{
+    box-shadow: 5PX 3PX 104PX 56PX rgba(68, 194, 83, 0.97);
+
 }
